@@ -31,6 +31,11 @@ int main(int argc, char *argv[])
 
     // Create a new block of memory to store the new JPEG file name
     char *new_file = malloc(sizeof(char) * 8);
+    if (new_file == NULL)
+    {
+        free(new_file);
+        return 3;
+    }
 
     while (fread(buffer, 512, 1, filename) == 1)
     {
