@@ -8,7 +8,7 @@ Simple program from cs50 PS4 that recovers JPEGs from a forensic image.
 ## inheritance.c
 Simple program from cs50’s Lab5 that simulates the inheritance of blood types for each member of a family.
 
-## inheritance.c
+## speller
 A program designed to spell-check a file using a hash table after loading a dictionary of words from disk into memory.
 - Usage: ./speller [dictionary] [text]
 - [dictionary] is assumed to be a file which contains a list of alphabetically sorted lowercase words with one word per line, each of which ends with \n and is no longer than 45 characters.
