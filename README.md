@@ -9,7 +9,7 @@ Simple program from cs50 PS4 that recovers JPEGs from a forensic image.
 Simple program from cs50’s Lab5 that simulates the inheritance of blood types for each member of a family.
 
 ## speller
-A program designed to spell-check a file using a hash table after loading a dictionary of words from disk into memory.
+A program designed to spell-check a file using a hash table after loading a dictionary of words from disk into memory from cs50 PS5.
 - Usage: ./speller [dictionary] [text]
 - [dictionary] is assumed to be a file which contains a list of alphabetically sorted lowercase words with one word per line, each of which ends with \n and is no longer than 45 characters.
 - [text] is the file to be spell-checked. 
