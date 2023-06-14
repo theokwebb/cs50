@@ -16,3 +16,6 @@ A program designed to spell-check a file using a hash table after loading a dict
 - Provision of dictionary is optional; if this argument is omitted, speller will use dictionaries/large by default.
 - “misspelled” in output means that some word is not in the dictionary provided.
 - Test with: ./speller dictionaries/large texts/lalaland.txt
+
+# Disclaimer
+Please adhere to CS50’s [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) guidelines.
