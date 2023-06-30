@@ -1,5 +1,5 @@
 # cs50
-Solutions to problem sets and labs from [CS50 course](https://cs50.harvard.edu/x/2023/).
+Solutions to some problem sets and labs from the [CS50 course](https://cs50.harvard.edu/x/2023/).
 
 ## recover.c
 Simple program from cs50 PS4 that recovers JPEGs from a forensic image.
