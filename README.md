@@ -10,12 +10,12 @@ Simple program from cs50’s Lab5 that simulates the inheritance of blood types 
 
 ## speller
 A program designed to spell-check a file using a hash table after loading a dictionary of words from disk into memory from cs50 PS5.
-- Usage: ./speller [dictionary] [text]
-- [dictionary] is assumed to be a file which contains a list of alphabetically sorted lowercase words with one word per line, each of which ends with \n and is no longer than 45 characters.
-- [text] is the file to be spell-checked. 
-- Provision of dictionary is optional; if this argument is omitted, speller will use dictionaries/large by default.
-- “misspelled” in output means that some word is not in the dictionary provided.
-- Test with: ./speller dictionaries/large texts/lalaland.txt
+- Usage: `./speller [dictionary] [text]`
+- `[dictionary]` is assumed to be a file which contains a list of alphabetically sorted lowercase words with one word per line, each of which ends with \n and is no longer than 45 characters.
+- `[text]` is the file to be spell-checked. 
+- Provision of dictionary is optional. If this argument is omitted, speller will use `dictionaries/large` by default.
+- `“misspelled”` in output means that some word is not in the dictionary provided.
+- Test with: `./speller dictionaries/large texts/lalaland.txt`
 
 # Disclaimer
 Please adhere to CS50’s [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) guidelines.
